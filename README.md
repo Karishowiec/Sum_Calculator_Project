@@ -6,7 +6,7 @@ This project demonstrates a simple Sum Calculator application written in Java us
 
 The `SumCalculator` class contains a method `sum(int n)` which returns the sum of all numbers from 1 to `n` inclusive.
 
-##Testing
+## Testing
 
 This project uses JUnit 5 for testing. The test cases for the SumCalculator class are written in SumCalculatorTest.
 
